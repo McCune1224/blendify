@@ -1,2 +1,2 @@
-# spotify-stats
-Go program to fetch fun and interesting statistics for a user
+# Blendify
+A bundle of features to allow for better music sharing expriences.
